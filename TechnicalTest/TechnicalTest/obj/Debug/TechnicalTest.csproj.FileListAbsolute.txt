@@ -1,0 +1,6 @@
+c:\users\aguilarca\documents\visual studio 2015\Projects\TechnicalTest\TechnicalTest\bin\Debug\TechnicalTest.exe.config
+c:\users\aguilarca\documents\visual studio 2015\Projects\TechnicalTest\TechnicalTest\bin\Debug\TechnicalTest.exe
+c:\users\aguilarca\documents\visual studio 2015\Projects\TechnicalTest\TechnicalTest\bin\Debug\TechnicalTest.pdb
+c:\users\aguilarca\documents\visual studio 2015\Projects\TechnicalTest\TechnicalTest\obj\Debug\TechnicalTest.csprojResolveAssemblyReference.cache
+c:\users\aguilarca\documents\visual studio 2015\Projects\TechnicalTest\TechnicalTest\obj\Debug\TechnicalTest.exe
+c:\users\aguilarca\documents\visual studio 2015\Projects\TechnicalTest\TechnicalTest\obj\Debug\TechnicalTest.pdb
